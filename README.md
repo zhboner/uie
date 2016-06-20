@@ -1,2 +1,1 @@
-# uie
-wordpress theme uie
+# UIE
