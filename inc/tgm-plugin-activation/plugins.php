@@ -49,11 +49,7 @@ function converio_register_required_plugins() {
             'required'  => false,
         ),
 		// This is an example of how to include a plugin from the WordPress Plugin Repository
-		array(
-			'name' 		=> 'WP Fancy Instagram',
-			'slug' 		=> 'wp-fancy-instagram',
-			'required' 	=> false,
-		),
+
 		// This is an example of how to include a plugin from the WordPress Plugin Repository
 		array(
 			'name' 		=> 'WP postlike',

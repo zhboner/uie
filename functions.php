@@ -1,5 +1,5 @@
 <?php
-define('PUMA_VERSION','1.0.0');
+define('UIE_VERSION','1.0.1');
 
 /**
  * Theme setup additions.
