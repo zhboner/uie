@@ -3,7 +3,7 @@
         <header class="archive-header u-textAlignCenter">
            <h1 class="archive-title"><?php printf( __( 'Search Results for: %s', 'puma' ), '<span>' . esc_html( get_search_query() ) . '</span>' ); ?></h1>
         </header>
-        <section class="blockGroup">
+        <section class="blockGroup layoutSingleColumn">
             <?php if (have_posts()):
                 while (have_posts()): the_post();
                     get_template_part('template-parts/content', get_post_format());
